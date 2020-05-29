@@ -4,7 +4,6 @@ Simple Shopping Cart -java web application using JSP and Servlet running in Apac
 
 gdsdfds
 
-
 bhuju1
 bhuju2
 bhuju3
@@ -12,7 +11,5 @@ bhuju4
 master1
 master2
 master3
-
-
 
 
