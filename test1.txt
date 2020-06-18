@@ -7,3 +7,5 @@ testing
 hello
 
 friday one test
+
+changed both
