@@ -8,7 +8,8 @@ hello
 
 friday one test
 
+changed both
 
+master
 
-branch branch
-
+master master
