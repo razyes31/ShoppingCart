@@ -8,15 +8,7 @@ hello
 
 friday one test
 
-<<<<<<< HEAD
 
-changed on this branch
 
-changed both
+branch branch
 
-hello
-=======
-changed both
-
-master
->>>>>>> master
